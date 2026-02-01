@@ -1,1 +1,1 @@
-<img src="images/balliflife.jpg" alt="ball" width="500"/>
+<img src="images/ballislife.jpg" alt="ball" width="500"/>
